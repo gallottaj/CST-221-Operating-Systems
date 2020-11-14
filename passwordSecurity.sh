@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# Joey Gallotta
-# 11/15/2020
-# CST-221
+#Joey Gallotta
+#11/15/2020
+#CST-221
 
 # Password Check
 
